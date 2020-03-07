@@ -18,7 +18,7 @@
     "jsonwebtoken": "^7.1.6",
     "moment": "^2.13.0",
     "mongodb": "^2.2.4",
-    "mongoose": "^4.4.12",
+    "mongoose": "^5.9.3",
     "morgan": "^1.7.0",
     "node-schedule": "^1.1.0",
     "s3-streamlogger": "^0.3.2",
