@@ -1,0 +1,33 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Node api for LIC app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "command-line-args": "^2.1.6",
+    "express": "^4.13.4",
+    "express-interceptor": "^1.2.0",
+    "jsonwebtoken": "^7.1.6",
+    "moment": "^2.13.0",
+    "mongodb": "^2.2.4",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.7.0",
+    "node-schedule": "^1.1.0",
+    "s3-streamlogger": "^0.3.2",
+    "sendgrid": "^2.0.0",
+    "socket.io": "^1.4.6",
+    "string": "^3.3.1"
+  },
+  "devDependencies": {
+    "should": "^9.0.2",
+    "supertest": "^1.2.0"
+  }
+}
