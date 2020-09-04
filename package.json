@@ -17,7 +17,7 @@
     "express-interceptor": "^1.2.0",
     "jsonwebtoken": "^7.1.6",
     "moment": "^2.13.0",
-    "mongodb": "^2.2.4",
+    "mongodb": "^3.6.1",
     "mongoose": "^4.4.12",
     "morgan": "^1.7.0",
     "node-schedule": "^1.1.0",
